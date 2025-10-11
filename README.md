@@ -1,5 +1,5 @@
 
-# 👋 Bonjour! I'm a GenAI Prototyping Architect
+# 👋 Bonjour! I'm a GenAI Architect
 
 🇫🇷 Based in Nantes, France, I'm currently crafting the future of AI at Amazon Web Services in beautiful Nantes, France. 
 My journey spans from the sun-soaked beaches of Australia to the charming châteaux of the Loire Valley, always with a passion for cutting-edge technology and meaningful innovation.
