@@ -59,7 +59,7 @@
 - Pioneering generative AI solutions and prototypes
 - Bridging cutting-edge AI research and practical applications
 
-**🎧 StreetLens** — *Founder*
+**🎧 StreetLens** — *Co-Founder*
 - Building the audio layer of cities: GPS-triggered, personalized, multilingual
 - Partner of Paris Je T'aime · ElevenLabs Startup Grant recipient
 
