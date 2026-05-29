@@ -1,5 +1,5 @@
 
-# 👋 Bonjour! I'm a GenAI Architect & Indie Builder
+# 👋 Bonjour! I'm a GenAI Architect & Co-Founder
 
 <p align="center">
   <img src="https://img.shields.io/badge/GenAI-Architect-7C3AED?style=for-the-badge" />
